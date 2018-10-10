@@ -1,0 +1,16 @@
+* Learning Blog
+We will be creating a learning blog that will hold our reflections and portfolio projects throughout this school year.
+
+Our learning blog will be hosted on GitHub. Create your account using your school domain username (the part of your email address before the @afsenyc.org
+
+** Slide
+- Create a gihub.com account.
+- Use a strong password using a personal password algorithm
+- 
+* HTML and CSS
+A web page is a collection of computer files that can be read by web browser software. Using the Internet web pages can be sent and received all across the world. One type of file that is used to create a web page is called an HTML file. The name of a file usually ends with an extension that tells us what type of file it is. For example if I have a website with a page called 'home' then the html file would be called 'home.html'. Another type of file that is used to create a web page is called a CSS file. The CSS file that goes along with our home page might be called 'home.css'.
+
+Web pages have a structure and a style
+
+[[images/structure-style-house.png]]
+

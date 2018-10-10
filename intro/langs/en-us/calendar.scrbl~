@@ -1,0 +1,10 @@
+#lang scribble
+
+@title{Calendar}
+
+@section{Calendar}
+@tabular[#:sep @hspace[1]
+         (list (list @bold{Animal} @bold{Food})
+               (list "mouse"       "cookie")
+               (list "moose"       "muffin"))]
+@section{Curriculum}

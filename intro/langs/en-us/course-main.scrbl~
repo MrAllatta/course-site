@@ -1,0 +1,7 @@
+#lang scribble/manual
+
+@title{Introduction to computer science}
+
+@include-section["faq.scrbl"]
+@include-section["policies.scrbl"]
+@include-section["cal.scrbl"]

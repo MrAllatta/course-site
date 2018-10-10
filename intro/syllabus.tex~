@@ -1,0 +1,332 @@
+% Created 2018-07-22 Sun 15:31
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{Sequence}
+\label{sec:org4cb1d34}
+\section{Goals}
+\label{sec:org00273b9}
+\section{Behaviors}
+\label{sec:org46f0445}
+\begin{itemize}
+\item Talk
+\item Listen
+\item Write
+\item Read
+\item Reiterate/Recall
+\item Think
+\item Explore
+\item Learn
+\item Attempt
+\item Reflect
+\item Analyze
+\item Deduce/Infer
+\item Critique
+\item Formulate
+\item Weigh/Evaluate/Judge
+\item Predict
+\item Design
+\end{itemize}
+
+\section{Algebra}
+\label{sec:orga48cb57}
+\subsection{Topics}
+\label{sec:org970ebab}
+\begin{itemize}
+\item Racket language syntax
+\item Circles of Evaluation
+\item Clock math, modulo
+\item Data Types (Numbers, Strings, Images, Booleans, Lists)
+\item Recursion
+\item Expressions
+\item Functions
+\item Examples
+\item Function Design
+\item Decode Problems
+\item Iterate
+\end{itemize}
+\subsection{Product outcomes}
+\label{sec:orgd73276c}
+\begin{itemize}
+\item Follow a design recipe to build abstractions over simple data (data may be conditional)
+\item (+) Follow a design recipe to build abstractions over lists
+\item Design computations based on data
+\item Evaluate expressions with/without computer
+\item Predict output of batch programs
+\item Design image compositions
+\item Collaborate to create a video game narrative
+\item Function design reflection performance task
+\end{itemize}
+\subsection{Knowledge}
+\label{sec:org4b71440}
+
+\section{Data}
+\label{sec:org9dd733e}
+\subsection{Topics}
+\label{sec:org023913d}
+\begin{itemize}
+\item Spreadsheet functions
+\item Table plans
+\item Function design
+\item Survey creation
+\item Analysis
+\item Interpretation
+\item Basic statistics (measures of central tendency, regression, correlation)
+\end{itemize}
+\subsection{Product Outcomes}
+\label{sec:org8d1d343}
+\begin{itemize}
+\item Follow a design recipe to build abstractions over tables
+\item Explore data to determine questions
+\end{itemize}
+\subsection{Knowledge}
+\label{sec:orgf761edf}
+\begin{itemize}
+\item Correlation not causation
+\item Explore to find questions before finding answers, data can't answer all questions
+\item Claims about populations can be made from samples
+\end{itemize}
+\subsection{Skills}
+\label{sec:org05fa89f}
+\subsection{Problems}
+\label{sec:org8cf894d}
+
+\section{Internet}
+\label{sec:org573d7e7}
+\subsection{Topics}
+\label{sec:orgea8583c}
+\begin{itemize}
+\item HTML
+\item CSS
+\item Structure
+\item Style
+\item Inheritance
+\item Programmatic page creation
+\item Rendering
+\item HTTP
+\item TCP/IP
+\item DNS
+\item Fault tolerance
+\end{itemize}
+\subsection{Product Outcomes}
+\label{sec:org4bfb878}
+\begin{itemize}
+\item Create a web page ad campaign
+\item re-style a web page
+\item Create a portfolio page
+\item 
+\end{itemize}
+\subsection{Knowledge}
+\label{sec:org76a9a3c}
+\begin{itemize}
+\item 
+\end{itemize}
+\subsection{Skills}
+\label{sec:org46711a3}
+\begin{itemize}
+\item 
+\end{itemize}
+\subsection{Problems}
+\label{sec:orgfbec0b1}
+\begin{itemize}
+\item 
+\end{itemize}
+
+\section{Impact}
+\label{sec:orgaa9e6af}
+\subsection{Topics}
+\label{sec:org586e682}
+\begin{itemize}
+\item Applied mathematics
+\item History of Computing
+\item 
+\end{itemize}
+\subsection{Product Outcomes}
+\label{sec:org44cc42a}
+\begin{itemize}
+\item 
+\end{itemize}
+\subsection{Knowledge}
+\label{sec:org746afa9}
+\begin{itemize}
+\item 
+\end{itemize}
+\subsection{Skills}
+\label{sec:org35c572e}
+\begin{itemize}
+\item 
+\end{itemize}
+\subsection{Problems}
+\label{sec:org025a2d0}
+\begin{itemize}
+\item 
+\end{itemize}
+\section{Nos and What ifs}
+\label{sec:org992bd86}
+\subsection{No \ldots{}}
+\label{sec:org47a42ce}
+\begin{itemize}
+\item cell phone
+\item charging phone
+\item 
+\end{itemize}
+\subsection{What ifs}
+\label{sec:orgb924c10}
+\begin{itemize}
+\item parent/student contract
+\item tracker
+\item restorative meeting
+\item restorative parent meeting
+\item Friday after school homework/restorative convo
+\item 
+\end{itemize}
+
+\section{Modes of learning}
+\label{sec:org75098aa}
+\begin{itemize}
+\item Lecture/Mini-lesson: - a well planned and rehearsed delivery of content, which may invoke participation, must be timed
+\item Think, pair, share
+\item Capturing Quantities
+\item Connecting Representations
+\item Recognizing Repetition
+\item Three Reads
+\item Learning journals, periodic reflections,
+\end{itemize}
+\section{Thinking Practices}
+\label{sec:org997dea4}
+\begin{itemize}
+\item Modeling/Abstracting
+\item Collaborating
+\item Connecting Concepts
+\item Creativity, Artifact Creation
+\item Problem Literacy and Perseverance
+\item Thinking abstractly and using quantities
+\item Making use of structure
+\item 
+\end{itemize}
+
+\section{Mastery Skills}
+\label{sec:org84ad958}
+\begin{itemize}
+\item Contracts and examples, expresions, nesting, test cases
+\item Program reading/tracing, predicting, evaluating complex expressions
+\item 
+\end{itemize}
+
+\section{Habits}
+\label{sec:orgb4306ae}
+\subsection{Note taking, Cornell}
+\label{sec:org7324219}
+\subsection{Studying}
+\label{sec:orgdce2798}
+\begin{itemize}
+\item Successful people keep a journal: rapper, mathematician, principal. Look to leaders in our own profession: AP Mac is a role model. Look to leaders in our own profession.
+\end{itemize}
+\subsection{Memorization}
+\label{sec:org15f3195}
+\section{Materials}
+\label{sec:orge085436}
+\begin{itemize}
+\item 3 ring binder
+\item Journal (are journal pages embedded in the workbook?)
+\item Pencil and pen and colors
+\end{itemize}
+
+\section{Roles}
+\label{sec:orgc799c2d}
+\begin{itemize}
+\item Meta data technician (structure vs rendering vs meta data applies to classroom learning)
+\item Class empathizer
+\item Homework helpers
+\item Partner pairs
+\item 
+\end{itemize}
+\section{Learning Objectives}
+\label{sec:org2db5d3d}
+\subsection{AP CS Principles}
+\label{sec:orgcb1f1ec}
+\begin{center}
+\begin{tabular}{lrlr}
+Covered? & Tag & Learning Objective & Skill\\
+\hline
+Y & 1.1.1 & Apply a creative development process when creating computational artifacts. [P2] & 2\\
+Y & 1.2.1 & Create a computational artifact for creative expression. [P2] & 2\\
+Y & 1.2.2 & Create a computational artifact using computing tools and techniques to solve a problem. [P2] & 2\\
+Y & 1.2.3 & Create a new computational artifact by combining or modifying existing artifacts. [P2] & 2\\
+Y & 1.2.4 & Collaborate in the creation of computational artifacts. [P6] & 6\\
+Y & 1.2.5 & Analyze the correctness, usability, functionality, and suitability of computational artifacts. [P4] & 4\\
+Y & 1.3.1 & Use computing tools and techniques for creative expression. [P2] & 2\\
+Y & 2.1.1 & Describe the variety of abstractions used to represent data. [P3] & 3\\
+N & 2.1.2 & Explain how binary sequences are used to represent digital data. [P5] & 5\\
+Y & 2.2.1 & Develop an abstraction when writing a program or creating other computational artifacts. [P2] & 2\\
+N & 2.2.2 & Use multiple levels of abstraction to write programs. [P3] & 3\\
+Y & 2.2.3 & Identify multiple levels of abstractions that are used when writing programs. [P3] & 3\\
+Y & 2.3.1 & Use models and simulations to represent phenomena. [P3] & 4\\
+Y & 2.3.2 & Use models and simulations to formulate, refine, and test hypotheses. [P3] & 6\\
+Y & 3.1.1 & Use computers to process information, find patterns, and test hypotheses about digitally processed information to gain insight and knowledge. [P4] & 4\\
+Y & 3.1.2 & Collaborate when processing information to gain insight and knowledge. [P6] & 6\\
+Y & 3.1.3 & Explain the insight and knowledge gained from digitally processed data by using appropriate visualizations, notations, and precise language. [P5] & 5\\
+Y & 3.2.1 & Extract information from data to discover and explain connections, patterns, or trends. [P1] & 1\\
+Y & 3.2.2 & Use large data sets to explore and discover information and knowledge. [P3] & 3\\
+N & 3.3.1 & Analyze how data representation, storage, security, and transmission of data involve computational manipulation of information. [P4] & 4\\
+Y & 4.1.1 & Develop an algorithm for implementation in a program. [P2] & 2\\
+Y & 4.1.2 & Express an algorithm in a language. [P5] & 5\\
+N & 4.2.1 & Explain the difference between algorithms that run in a reasonable time and those that do not run in a reasonable time. [P1] & 1\\
+N & 4.2.2 & Explain the difference between solvable and unsolvable problems in computer science. [P1] & 1\\
+N & 4.2.3 & Explain the existence of undecidable problems in computer science. [P1] & 1\\
+Y & 4.2.4 & Evaluate algorithms analytically and empirically for efficiency, correctness, and clarity. [P4] & 4\\
+Y & 5.1.1 & Develop a program for creative expression, to satisfy personal curiosity, or to create new knowledge. [P2] & 2\\
+Y & 5.1.2 & Develop a correct program to solve problems. [P2] & 2\\
+Y & 5.1.3 & Collaborate to develop a program. [P6] & 6\\
+? & 5.2.1 & Explain how programs implement algorithms. [P3] & 3\\
+Y & 5.3.1 & Use abstraction to manage complexity in programs. [P3] & 3\\
+Y & 5.4.1 & Evaluate the correctness of a program. [P4] & 4\\
+Y & 5.5.1 & Employ appropriate mathematical and logical concepts in programming. [P1] & 1\\
+Y & 6.1.1 & Explain the abstractions in the Internet and how the Internet functions. [P3] & 3\\
+Y & 6.2.1 & Explain characteristics of the Internet and the systems built on it. [P5] & 5\\
+N & 6.2.2 & Explain how the characteristics of the Internet influence the systems built on it. [P4] & 4\\
+N & 6.3.1 & Identify existing cybersecurity concerns and potential options to address these issues with the Internet and the systems built on it. [P1] & 1\\
+Y & 7.1.1 & Explain how computing innovations affect communication, interaction, and cognition. [P4] & 4\\
+Y & 7.1.2 & Explain how people participate in a problem- solving process that scales. [P4] & 4\\
+Y & 7.2.1 & Explain how computing has impacted innovations in other fields. [P1] & 1\\
+N & 7.3.1 & Analyze the beneficial and harmful effects of computing. [P4] & 4\\
+N & 7.4.1 & Explain the connections between computing and economic, social, and cultural contexts. [P1] & 1\\
+\end{tabular}
+\end{center}
+
+\section{Assignments/Activities}
+\label{sec:orgc80379a}
+\begin{itemize}
+\item MS\_[tag(s) \ldots{}]\_[PRO,PRAC,APP,NOV,INS]\(_{\text{title}}\)\_[mode/type]\_[description]
+\item an assignment is a
+\begin{itemize}
+\item mastery skill tag
+\item an assessment level (each assignment should only have one assessment level )multiple choice items can demonstrate levels of mastery. However multiple choice item correctness has an element of chance. MC items are also difficult to protect from cheating or copying. Assessing with validity using multiple choice ites requires multiple questions assessing the same skil at the same level (at least 2?)
+\end{itemize}
+\end{itemize}
+\end{document}
