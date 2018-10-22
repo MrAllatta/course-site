@@ -5,12 +5,12 @@
 
 - Add collector for lesson points. Add time to points. Lessons should accumulate the time of their points. 
 
-| Table  |   |   |   |   |
-|---+---+---+---+---|
-|        |   |   |   |   |
-|        |   |   |   |   |
-|        |   |   |   |   |
-|   |   |   |   |   |
+| Table |   |   |   |   |
+|-------+---+---+---+---|
+|       |   |   |   |   |
+|       |   |   |   |   |
+|       |   |   |   |   |
+|       |   |   |   |   |
 
 | Name | Date | Birthday | Gender | Race |
 |------+------+----------+--------+------|

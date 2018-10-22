@@ -12,7 +12,7 @@
 @include-section["professionalism.scrbl"]
 @include-section["parents.scrbl"]
 
-@(image "courses/intro/afse-logo.png" "afse logo")
+@(image "intro/afse-logo.png" "afse logo")
 
 Welcome to the Internet home of Lower Academy Computer Science at the
 Academy for Software Engineering. This two year sequence will prepare
