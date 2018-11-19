@@ -23,7 +23,7 @@
          scribble/html-render
          file/zip
 	 scribble/html-properties
-         "courses/intro/langs/en-us/course-main.scrbl")
+         "intro/langs/en-us/course-main.scrbl")
 
 
 
