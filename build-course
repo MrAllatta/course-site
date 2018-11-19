@@ -1,19 +1,13 @@
 #!/bin/sh
 
- echo -n "Building curriculum"
- echo
+echo -n "Empty course site directory"
+echo
+rm -rf ~/sy18-19-lacs/*
 
- racket -l errortrace -t build.rkt
-
- echo -n "Building workbook"
- echo
-
- racket -l errortrace -t build-workbook.rkt
-
- echo -n "Copying courses directory"
- echo
+echo -n "Copying courses directory"
+echo
  
- cp -r distribution/courses ~/intro-site
+cp -r ~/curr/distribution/courses ~/sy18-19-lacs/
 
 echo -n "Building course pages"
 echo
@@ -23,6 +17,12 @@ racket -l errortrace -t my-build.rkt
 echo -n "Copying contents of index directory"
 echo
 
-cp -r distribution/index/. ~/intro-site
+cp -r distribution/index/. ~/sy18-19-lacs/
 
+cd ../sy18-19-lacs/
 
+git add -A
+
+git commit -m "updated site content"
+
+git push
