@@ -2,10 +2,10 @@
 
 # racket -l errortrace -t build.rkt
 
-racket -l errortrace -t my-build.rkt
+# racket -l errortrace -t my-build.rkt
 
-# cp -r distribution/courses ~/intro-site
+cp -r distribution/courses ~/course-site
 
-cp -r distribution/index/. ~/intro-site
+cp -r distribution/index/. ~/-site
 
 # cp -r distribution/lib ~/intro-site
