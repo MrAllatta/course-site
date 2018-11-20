@@ -2,8 +2,7 @@
 #lang racket/base
 (require scribble/render
          scribble/html-render
-         file/zip
-	 scribble/html-properties
+         scribble/html-properties
          "intro/langs/en-us/course-main.scrbl")
 
 (render (list doc)
