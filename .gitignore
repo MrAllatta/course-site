@@ -1,2 +1,5 @@
 _site
 distribution
+.gitignore~
+intro/langs/en-us/#course-main.scrbl#
+intro/langs/en-us/.#course-main.scrbl
